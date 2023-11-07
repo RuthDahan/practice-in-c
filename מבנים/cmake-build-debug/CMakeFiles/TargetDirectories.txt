@@ -1,0 +1,3 @@
+I:/הגשת מבחנים ועבודות/Group2/C הגשת שיעורי בית/מבנים/אסתי צוקרמן וליבי סגל/cmake-build-debug/CMakeFiles/lesson4b.dir
+I:/הגשת מבחנים ועבודות/Group2/C הגשת שיעורי בית/מבנים/אסתי צוקרמן וליבי סגל/cmake-build-debug/CMakeFiles/edit_cache.dir
+I:/הגשת מבחנים ועבודות/Group2/C הגשת שיעורי בית/מבנים/אסתי צוקרמן וליבי סגל/cmake-build-debug/CMakeFiles/rebuild_cache.dir

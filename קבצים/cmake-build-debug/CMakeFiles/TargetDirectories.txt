@@ -1,0 +1,3 @@
+I:/הגשת מבחנים ועבודות/Group2/C הגשת שיעורי בית/קבצים/חוי דייטש ופסי מרגלית/cmake-build-debug/CMakeFiles/lesson_4.dir
+I:/הגשת מבחנים ועבודות/Group2/C הגשת שיעורי בית/קבצים/חוי דייטש ופסי מרגלית/cmake-build-debug/CMakeFiles/edit_cache.dir
+I:/הגשת מבחנים ועבודות/Group2/C הגשת שיעורי בית/קבצים/חוי דייטש ופסי מרגלית/cmake-build-debug/CMakeFiles/rebuild_cache.dir
